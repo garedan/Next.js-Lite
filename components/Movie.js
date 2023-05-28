@@ -1,6 +1,4 @@
 import React from 'react'
-// import { Card, CardHeader, CardBody, Typography } from "@material-tailwind/react";
-
 
 const Movie = ({ image, title, description, plot, contentRating, imDbRating }) => {
   return (

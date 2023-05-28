@@ -7,14 +7,14 @@ export const Navbar = () => {
             <ul>
                 <li>
                     <Link href="/">
-                        <a>Home</a>
+                        <a className='m-auto p-5 underline'>Garedan - Next.js Lite + Simple Movie Catalog</a>
                     </Link>
                 </li>
-                <li>
+                {/* <li>
                 <Link href="/about">
                     <a>About</a>
                 </Link>
-                </li>
+                </li> */}
             </ul>
         </nav>
     )

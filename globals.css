@@ -3,5 +3,6 @@
 @tailwind utilities;
 
 .container {
-    background-color: salmon;
+    background-color: black;
+    color: white;
 }
