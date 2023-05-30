@@ -8,3 +8,5 @@ I'm testing if it's possible to make any Next application with this version.
 App made with this version of Next.js
 
 [Building a Blog With Next.js and MDX](https://github.com/garedan/pratice01-with-Next.js-Lite) (No Tailwind)
+
+[Credits](https://blog.jetbrains.com/webstorm/2021/10/building-a-blog-with-next-js-and-mdx/) 
